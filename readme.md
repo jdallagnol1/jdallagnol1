@@ -1,3 +1,3 @@
-# Oi
-## Computer Science student
-## iOS Developer
+## Oi
+### Computer Science student
+### iOS Developer
